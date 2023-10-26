@@ -3,8 +3,6 @@
 ### Описание
 Данный корпус состоит из статей о фильмах, которые мы нашли в интернете!
 
-Здесь Вы можете им воспользоваться: [сайт](https://steffs.pythonanywhere.com/)
-
 Здесь лежат подробноти кода веб-приложения: [клик сюда](https://github.com/stefikh/web_corpus_fikl)
 
 Это [ссылка](https://github.com/Milllkis/FICL_corpus/blob/main/textbase2.db) на DB, чтобы не парсить все страницы заново!
